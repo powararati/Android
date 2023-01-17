@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Vendor</string>
+    <string name="login_verify_awesome" translatable="false">Awesome,</string>
+
+    <string name="get_started_with_mobile" translatable="false">Get started with your mobile number</string>
+    <string name="login_verify_otp_text" translatable="false">We will auto detect the OTP sent to your number</string>
+    <string name="otp_wait_for" translatable="false">Wait for</string>
+    <string name="otp_message" translatable="false">is your Food Delivery verification OTP.</string>
+    <string name="please_enter_otp" translatable="false">Please enter OTP.</string>
+    <string name="incorrect_otp" translatable="false">Incorrect OTP.</string>
+    <string name="new_credentials" translatable="false">New \nCredentials</string>
+    <string name="password_updated" translatable="false">Password \nUpdated</string>
+    <string name="success_msg" translatable="false">Your password has been successfully updated!</string>
+    <string name="forget_pass_msg" translatable="false">Forget \nPassword</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="forget_pass_detail" translatable="false">Provide your registered mobile number for which you want \nto reset your password!</string>
+    <string name="new_credentials_detail" translatable="false">Your identity has been verified!
+        \n Set Your new password</string>
+
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+</resources>
